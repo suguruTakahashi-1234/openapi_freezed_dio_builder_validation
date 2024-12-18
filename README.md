@@ -24,3 +24,7 @@ Doctor summary (to see all details, run flutter doctor -v):
 ```shell
 flutter pub run build_runner build --delete-conflicting-outputs -v
 ```
+
+## Links
+
+- https://pub.dev/packages/openapi_freezed_dio_builder
